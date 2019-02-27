@@ -3,3 +3,11 @@
 // pero que los múltiplos de 3 imprima GEEKS en lugar del numero
 // y los múltiplos de 5 imprima HUBS.
 // Además los múltiplos de 3 y 5 ha de imprimir GEEKSHUBS
+for (var x=0; x<=10; x++){
+    if{
+        ;
+        console.log('GEEKS');
+    }
+
+    console.log(x);
+}
